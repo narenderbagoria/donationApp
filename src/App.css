@@ -1,0 +1,17 @@
+*{
+  margin: 0 auto;
+  padding: 0 auto;
+  /* max-width: 1200px;
+  min-width: 960px; */
+}
+
+
+.container{
+  background-color: #f4f4f4;
+}
+
+h1{
+  color:whitesmoke;
+  background-color: black;
+
+}
